@@ -1,22 +1,26 @@
+# RoyaleBombs
 
-{
-  "name": "royalebombs",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "@worldcoin/idkit": "^1.1.2",
-    "next": "^13.4.12",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.24",
-    "tailwindcss": "^3.3.2"
-  }
-}
+**RoyaleBombs** es un juego 2D multijugador inspirado en CryptoRoyale, con integración de World ID (Worldcoin).  
+El objetivo es simple: ¡escapa de la bomba antes de que explote!
+
+## Modos de juego
+
+- **Modo Bomba**: Un jugador recibe una bomba y tiene 30 segundos para pasarla a otro.  
+  Si no lo logra... ¡Boom!
+  
+- **Modo Royale**: Como CryptoRoyale. Sobrevive mientras el mapa se encoge.
+
+## Tecnologías usadas
+
+- [Next.js](https://nextjs.org/)  
+- [React](https://react.dev/)  
+- [TailwindCSS](https://tailwindcss.com/)  
+- [Worldcoin IDKit](https://id.worldcoin.org/)
+
+## Despliegue
+
+Este proyecto se desplegará en [Vercel](https://vercel.com).
+
+## Autor
+
+Desarrollado por **@youssef13918**

@@ -1,7 +1,6 @@
-Next.js
 {
   "name": "royalebombs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,9 +9,13 @@ Next.js
   },
   "dependencies": {
     "@worldcoin/idkit": "^1.1.2",
-    "next": "13.4.12",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "next": "^13.4.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2"
   }
 }

@@ -1,5 +1,12 @@
 npm install next
 {
+  "dependencies": {
+    "next": "13.4.2", // <---- Asegúrate de que esté esto
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
+{
   "name": "royalebombs",
   "version": "0.1.0",
   "private": true,

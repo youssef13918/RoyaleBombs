@@ -168,3 +168,11 @@ export default function Home() {
     </div>
   );
 }
+Contenido de globals.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-purple-900 text-white;
+}

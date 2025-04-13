@@ -1,2 +1,17 @@
-# RoyaleBombs
-Mini game inspired by CryptoRoyale for World App
+{
+  "name": "royalebombs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@worldcoin/idkit": "^1.1.2",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "^3.3.2"
+  }
+}

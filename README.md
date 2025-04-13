@@ -1,3 +1,4 @@
+Next.js
 {
   "name": "royalebombs",
   "version": "0.1.0",

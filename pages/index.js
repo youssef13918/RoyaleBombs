@@ -9,7 +9,7 @@ const jugadoresIniciales = [
 
 export default function Home() {
   const [jugadores, setJugadores] = useState(jugadoresIniciales);
-  const [tiempo, setTiempo] = useState(30);
+  const [tiempo, setTiempo] = useState(25);
   const [bombaActiva, setBombaActiva] = useState(false);
 
   const iniciarBomba = () => {

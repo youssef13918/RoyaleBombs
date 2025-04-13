@@ -4,6 +4,7 @@ const jugadoresIniciales = [
   { id: 1, nombre: 'Jugador 1', tieneBomba: false },
   { id: 2, nombre: 'Jugador 2', tieneBomba: false },
   { id: 3, nombre: 'Jugador 3', tieneBomba: false },
+    { id: 4, nombre: 'Jugador 4', tieneBomba: false },
 ];
 
 export default function Home() {
